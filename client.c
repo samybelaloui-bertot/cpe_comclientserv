@@ -1,6 +1,7 @@
 //EXERCICE 6
 
 //Version 2 Git
+//Ajout de commentaires
 
 #include <sys/fcntl.h>
 #include <sys/stat.h>

@@ -1,5 +1,6 @@
 //EXERCICE 6
 
+//Compatibilité Github
 
 #include <sys/fcntl.h>
 #include <sys/stat.h>
