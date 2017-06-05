@@ -1,6 +1,7 @@
 //EXERCICE 6
 
 //Compatibilité Github modifiée
+//ceci est un developpement annexe
 
 #include <sys/fcntl.h>
 #include <sys/stat.h>
