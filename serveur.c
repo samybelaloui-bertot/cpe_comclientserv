@@ -1,6 +1,6 @@
 //EXERCICE 6
 
-//Compatibilité Github
+//Compatibilité Github modifiée
 
 #include <sys/fcntl.h>
 #include <sys/stat.h>
