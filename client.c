@@ -1,5 +1,6 @@
 //EXERCICE 6
 
+//Version 2 Git
 
 #include <sys/fcntl.h>
 #include <sys/stat.h>
